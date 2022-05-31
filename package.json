@@ -1,0 +1,27 @@
+{
+  "name": "net.funkysheep.unity.simplejson",
+  "displayName": "FunkySheep Unity SimpleJSON Library",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "FunkySheep framework SimpleJSON Library",
+  "keywords": [
+    "JSON",
+    "Unity",
+    "WebGl",
+    "AR",
+    "Android",
+    "IOS"
+  ],
+  "category": "JSON",
+  "changelogUrl": "https://github.com/FunkySheepStudio/Unity-SimpleJSON/blob/main/CHANGELOG.md",
+  "dependencies": {},
+  "scopedRegistries": [
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "net.funkysheep"
+      ]
+    }
+  ]
+}
